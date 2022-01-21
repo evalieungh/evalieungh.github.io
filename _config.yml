@@ -1,6 +1,4 @@
 title: Eva Lieungh
 description: one page to bind them all
 site_url: https://evalieungh.github.io/
-nav:
-    - Home: README.md
 theme: jekyll-theme-cayman
