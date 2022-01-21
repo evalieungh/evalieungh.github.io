@@ -2,4 +2,4 @@ site_name: Eva Lieungh
 site_url: https://evalieungh.github.io/
 nav:
     - Home: README.md
-theme: jekyll-theme-midnight
+theme: jekyll-theme-cayman
