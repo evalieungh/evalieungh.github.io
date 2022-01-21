@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to Eva Lieungh's webpage
 
-You can use the [editor on GitHub](https://github.com/evalieungh/evalieungh.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I'm a phd student at the Natural History Museum in Oslo, Norway. This page is made from my [GitHub account](https://github.com/evalieungh), which I use for some projects. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+Here are some links that describe my professional side
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### [Employee page at the NHM](https://www.nhm.uio.no/english/about/organization/research-collections/people/evaler/index.html)
 
-```markdown
-Syntax highlighted code block
+#### [Publication list](https://app.cristin.no/persons/show.jsf?id=885740)
 
-# Header 1
-## Header 2
-### Header 3
+#### [CV on LinkedIn](https://no.linkedin.com/in/evalieungh)
 
-- Bulleted
-- List
+#### [OrcID](https://orcid.org/0000-0003-4009-944X)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/evalieungh/evalieungh.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![The Botanical Museum, NHM, University of Oslo](http://tinyimg.io/i/4JwXAr1.jpg)
