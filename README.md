@@ -1,9 +1,6 @@
-## Welcome to Eva Lieungh's webpage
-
 I'm a phd student at the Natural History Museum in Oslo, Norway. This page is made from my [GitHub account](https://github.com/evalieungh), which I use for some projects. 
 
-
-Here are some links that describe my professional side
+Here are some links that describe my professional side:
 
 #### [Employee page at the NHM](https://www.nhm.uio.no/english/about/organization/research-collections/people/evaler/index.html)
 
