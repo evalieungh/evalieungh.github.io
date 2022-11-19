@@ -7,4 +7,4 @@ Here are some links that describe my professional side:
 - [LinkedIn](https://no.linkedin.com/in/evalieungh)
 - [OrcID](https://orcid.org/0000-0003-4009-944X)
 
-![The Botanical Museum, NHM, University of Oslo](http://tinyimg.io/i/4JwXAr1.jpg)
+![The Botanical Museum, NHM, University of Oslo](IMG_20191217_144143_s.jpg)
