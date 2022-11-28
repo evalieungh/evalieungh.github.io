@@ -6,5 +6,6 @@ Here are some links that describe my professional side:
 - [Publications](https://app.cristin.no/persons/show.jsf?id=885740)
 - [LinkedIn](https://no.linkedin.com/in/evalieungh)
 - [OrcID](https://orcid.org/0000-0003-4009-944X)
+- [Mastodon](https://mstdn.science/@evalieungh)
 
 ![The Botanical Museum, NHM, University of Oslo](IMG_20191217_144143_s.jpg)
